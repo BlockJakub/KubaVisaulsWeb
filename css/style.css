@@ -306,7 +306,7 @@ section {
 .section-3,
 .section-4 {
     width: 100vw; /* Full viewport width */
-    max-width: 77%; /* Ensures no restriction */
+    max-width: 87%; /* Ensures no restriction */
     margin: 0 auto; /* Centers content */
     padding: 50px 20px; /* Adds spacing */
     display: flex;
